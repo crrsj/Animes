@@ -7,6 +7,7 @@ h1{
 .container{
    position: relative;
    color: white;
+   text-align:center;
 }
 .container img{
     width: 100%;
