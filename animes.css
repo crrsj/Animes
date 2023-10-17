@@ -1,0 +1,13 @@
+body{
+  background-color:black;  
+}
+h1{
+    color: #fc5203;
+}
+.container{
+   position: relative;
+   color: white;
+}
+.container img{
+    width: 100%;
+}
