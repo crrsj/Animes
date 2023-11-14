@@ -12,3 +12,12 @@ h1{
 .container img{
     width: 100%;
 }
+a:hover{
+  border: 1px solid #007bff;
+  background: #007bff;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  
+}
